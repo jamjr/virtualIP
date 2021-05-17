@@ -7,10 +7,10 @@ Sometimes I need a server to test -or deploy- my projects but I do not want -or 
 * The clients
 ### How this works
 * The server -the one with you server app logic-   
- > 1. get external ip  
- > 2. Encript the ip  
- > 3. Upload the ip to the middleman  
- > _this 3 steps have to be done periodically, as the ip can change anytime_
+  1. get external ip  
+  2. Encript the ip  
+  3. Upload the ip to the middleman  
+  _this 3 steps have to be done periodically, as the ip can change anytime_
 * The client/s  
  > 1. Read the encripted ip from the middleman 
  > 2. Decript the ip  
