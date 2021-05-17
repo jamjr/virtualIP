@@ -12,9 +12,9 @@ Sometimes I need a server to test -or deploy- my projects but I do not want -or 
   3. Upload the ip to the middleman  
   _this 3 steps have to be done periodically, as the ip can change anytime_
 * The client/s  
- > 1. Read the encripted ip from the middleman 
- > 2. Decript the ip  
- > 3. Connect  
+  1. Read the encripted ip from the middleman 
+  2. Decript the ip  
+  3. Connect  
   
 
 ## Pros:
