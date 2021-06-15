@@ -4,9 +4,10 @@ Sometimes I need a server to test -or deploy- my projects but I do not want -or 
 ### Parts:
 * The server
 * The middleman 
-* The clients
-### How this works
-* The server -the one with you server app logic-   
+* The clients  
+
+### How this works:
+* The server -the one with you server app-   
   1. get external ip  
   2. Encript the ip  
   3. Upload the ip to the middleman  
@@ -16,7 +17,6 @@ Sometimes I need a server to test -or deploy- my projects but I do not want -or 
   2. Decript the ip  
   3. Connect  
   
-
 ## Pros:
 * No domain needed
 * No Dinamic ip service needed
@@ -29,5 +29,5 @@ Sometimes I need a server to test -or deploy- my projects but I do not want -or 
   -  IRC (free)
 ## TODO
 * Add new middlemen
-* - DNSfs
-* - Telegram
+ - DNSfs
+ - Telegram
