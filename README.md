@@ -23,9 +23,10 @@ Sometimes I need a server to test -or deploy- my projects but I do not want -or 
 * Free and easy to use
 * Works everywhere
 ## Cons:
-* You need a middleman: 
-* - Github (free)
-* - Pastebin (free)
+* You need a middleman: (currently implemented)
+  -  Github (free)
+  -  Pastebin (free)
+  -  IRC (free)
 ## TODO
 * Add new middlemen
 * - DNSfs
